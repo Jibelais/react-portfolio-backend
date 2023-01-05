@@ -3,7 +3,7 @@
         "name": "react-cities", 
         "live": "https://jp-react-cities.netlify.app", 
         "git": "https://github.com/Jibelais/react-cities", 
-        "image:": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UzhNk8voPWBF0nPPlcJQV2GLBmlI_Egf8A&usqp=CAU"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UzhNk8voPWBF0nPPlcJQV2GLBmlI_Egf8A&usqp=CAU"
     },
 
     {
@@ -22,12 +22,6 @@
         "name":"star-wars",
         "live":"https://jp-react-star-wars.netlify.app",
         "git":"https://github.com/Jibelais/react-star-wars",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UzhNk8voPWBF0nPPlcJQV2GLBmlI_Egf8A&usqp=CAU"
-    },
-    {
-        "name":"",
-        "live":"",
-        "git":"",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UzhNk8voPWBF0nPPlcJQV2GLBmlI_Egf8A&usqp=CAU"
     },
     {
