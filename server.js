@@ -49,12 +49,12 @@ app.get("/", (req, res) => {
 // route for retrieving projects
 app.get("/projects", async (req, res) => {
   // send projects via JSON
-  // res.json(projects);
-  try {
-    res.status(200).json(await Project.find({}))
-   } catch (error) {
-    res.status(400).json(error)
-   }
+  res.json(projects);
+  // try {
+  //   res.status(200).json(await Project.find({}))
+  //  } catch (error) {
+  //   res.status(400).json(error)
+  //  }
  })
 
  // CREATE
